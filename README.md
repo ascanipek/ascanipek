@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ascanipek
+- 👀 I’m interested in JS and Laravel for web development, python and R for data science, machine learning and AI
+- 🌱 I’m currently learning VUE and R
+- 💞️ I’m looking to collaborate on FREE and Open Source Projects
+- 📫 How to reach me a s c a n i p e k @ g m a i l . c 0 m
